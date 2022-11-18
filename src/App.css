@@ -1,0 +1,49 @@
+h2 {
+  color: aquamarine;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+h3,
+h5 {
+  color: aquamarine;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+p {
+  font-size: 0.75rem;
+  margin: 0;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border: 2px solid aquamarine;
+  background-color: aquamarine;
+  border-radius: 1rem;
+  color: rgb(6, 22, 73);
+  border-radius: 50%;
+  font-size: 0.75rem;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+}
+
+label {
+  color: aquamarine;
+  font-size: 1rem;
+}
+
+input {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border: 2px solid aquamarine;
+  background-color: white;
+  color: rgb(6, 22, 73);
+  border-radius: 1rem;
+  font-size: 0.75rem;
+  outline: none;
+}

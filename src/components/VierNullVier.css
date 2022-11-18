@@ -1,0 +1,11 @@
+.vierNullVier {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60vw;
+  margin: auto;
+  margin-bottom: 2rem;
+  color: aquamarine;
+  font-size: 2rem;
+}
