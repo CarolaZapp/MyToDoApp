@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MyToDoApp/static/css/main.9b5ea2f3.css",
-    "main.js": "/MyToDoApp/static/js/main.4eb00a8e.js",
+    "main.js": "/MyToDoApp/static/js/main.f603b143.js",
     "static/media/Eintopf Logo_w.png": "/MyToDoApp/static/media/Eintopf Logo_w.2b7a37c8df4a5ea3892b.png",
     "index.html": "/MyToDoApp/index.html",
     "main.9b5ea2f3.css.map": "/MyToDoApp/static/css/main.9b5ea2f3.css.map",
-    "main.4eb00a8e.js.map": "/MyToDoApp/static/js/main.4eb00a8e.js.map"
+    "main.f603b143.js.map": "/MyToDoApp/static/js/main.f603b143.js.map"
   },
   "entrypoints": [
     "static/css/main.9b5ea2f3.css",
-    "static/js/main.4eb00a8e.js"
+    "static/js/main.f603b143.js"
   ]
 }
