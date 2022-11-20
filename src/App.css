@@ -25,6 +25,7 @@ button {
   color: rgb(6, 22, 73);
   border-radius: 50%;
   font-size: 0.75rem;
+  cursor: pointer;
 }
 
 form {
@@ -46,4 +47,5 @@ input {
   border-radius: 1rem;
   font-size: 0.75rem;
   outline: none;
+  cursor: pointer;
 }

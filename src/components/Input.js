@@ -28,6 +28,7 @@ const Input = ({ idNew, date, setDate, dispatch }) => {
           <label htmlFor="input-todo">New To Do: </label>
           <input
             type="text"
+            placeholder="Please insert your task"
             id="input-todo"
             onChange={(event) => setInputTodo(event.target.value)}
             value={inputTodo}
