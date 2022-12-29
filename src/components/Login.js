@@ -19,7 +19,7 @@ const Login = () => {
     setInputPassword("");
 
     if (data.userName === inputName && data.password === inputPassword) {
-      navigate("/membersOnly");
+      navigate("/MyToDoApp/membersOnly");
     } else if (data.userName !== inputName || data.password !== inputPassword) {
       setShow(true);
     }

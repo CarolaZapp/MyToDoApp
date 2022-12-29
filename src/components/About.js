@@ -16,7 +16,8 @@ const About = () => {
         </li>
         <li className="aboutLi">The tasks may also be deleted </li>
         <li className="aboutLi">
-          All displayed tasks are stored in the local storage
+          All displayed tasks are stored in local memory as soon as you reload
+          the page to save them.
         </li>
       </ol>
       <h2> How to use the login:</h2>
