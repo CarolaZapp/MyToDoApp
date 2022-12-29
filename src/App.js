@@ -14,10 +14,10 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/MyToDoApp" element={<Main />} />
-        <Route path="/MyToDoApp/main" element={<Main />} />
-        <Route path="/MyToDoApp/about" element={<About />} />
-        <Route path="/MyToDoApp/login" element={<Login />} />
-        <Route path="/MyToDoApp/membersOnly" element={<MembersOnly />} />
+        <Route path="main" element={<Main />} />
+        <Route path="about" element={<About />} />
+        <Route path="login" element={<Login />} />
+        <Route path="membersOnly" element={<MembersOnly />} />
         <Route path="*" element={<VierNullVier />} />
       </Routes>
     </div>

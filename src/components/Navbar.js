@@ -4,13 +4,13 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <nav className="nav">
-      <NavLink to="/MyToDoApp/main" className={"navLink"}>
+      <NavLink to="main" className={"navLink"}>
         Main
       </NavLink>
-      <NavLink to="/MyToDoApp/about" className={"navLink"}>
+      <NavLink to="about" className={"navLink"}>
         About
       </NavLink>
-      <NavLink to="/MyToDoApp/login" className={"navLink"}>
+      <NavLink to="login" className={"navLink"}>
         Login
       </NavLink>
     </nav>
